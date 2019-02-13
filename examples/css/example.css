@@ -1,0 +1,8 @@
+div:nth-of-type(odd){
+  padding: 0;
+  background: skyblue;
+}
+div:nth-of-type(even){
+  padding: 0;
+  background: rgb(255, 255, 123);
+}
